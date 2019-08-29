@@ -9,9 +9,9 @@ I am going to host my resume and cover letter with my first trial with GitHub pa
 [My cover letter in PDF format](https://github.com/mthakershi/mthakershi.github.io/edit/master/Cover_letter_Senior_Software_Engineer.pdf)
 
 ### Contact details
-- **Email**:[mthakershi@gmail.com](mailto:mthakershi@gmail.com)
-- **Phone (USA)**:+1-972-954-5558
-- **Phone (India)**:+91-7567555116
+- **Email**: [mthakershi@gmail.com](mailto:mthakershi@gmail.com)
+- **Phone (USA)**: +1-972-954-5558
+- **Phone (India)**: +91-7567555116
 
 ```markdown
 Highlights of my profile
