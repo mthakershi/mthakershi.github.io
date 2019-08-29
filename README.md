@@ -1,37 +1,39 @@
-## Welcome to GitHub Pages
+## Welcome to Malay Thakershi's GitHub Pages
 
-You can use the [editor on GitHub](https://github.com/mthakershi/mthakershi.github.io/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
+I am going to host my resume and cover letter with my first trial with GitHub pages. Sounds cool!!! I am going to learn Markdown here. Well. I am looking for Senior Software Engineer or Systems Architect roles at this point in my career.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+### Resume
+[My resume in PDF format](https://github.com/mthakershi/mthakershi.github.io/edit/master/Malay_resume.pdf)
 
-### Markdown
+### Cover letter
+[My cover letter in PDF format](https://github.com/mthakershi/mthakershi.github.io/edit/master/Cover_letter_Senior_Software_Engineer.pdf)
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+### Contact details
+- **Email**:[mthakershi@gmail.com](mailto:mthakershi@gmail.com)
+- **Phone (USA)**:+1-972-954-5558
+- **Phone (India)**:+91-7567555116
 
 ```markdown
-Syntax highlighted code block
+Highlights of my profile
 
-# Header 1
-## Header 2
-### Header 3
+# My education
+1. Masters in **Computer Science - Software Engineering** from _University of Texas at Dallas_
+2. Bachelors in **Information Technology** from _Nirma Institute of Technology_
 
-- Bulleted
-- List
+## My work experience
+- `Sr. Software Engineer` at _Continuity Health Solutions_ **Jan 2008 - Jul 2019**
+- `Software Engineer` at _Womens Health Specialists_ **Jun 2004 - Nov 2007**
 
-1. Numbered
-2. List
+### My technical skills
+1. C#, .NET, .NET core, ASP.NET, ASP.NET MVC, Web API, MS SQL Server
+2. HTML, CSS, Javascript, AJAX, NodeJS, Python
+3. jQuery, React JS, React Native, Xamarin, Cordova
+4. AWS, Azure, Twilio, Alexa, FreeSwitch
 
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
 ```
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
+This page was styled using [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
 
 ### Jekyll Themes
+This page uses the layout and styles from the Jekyll theme.
 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/mthakershi/mthakershi.github.io/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
